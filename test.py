@@ -1,1 +1,1 @@
-prnt("oye hello yr")
+print("oye hello yr")
